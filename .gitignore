@@ -1,0 +1,7 @@
+# Go build output
+goserver
+*.exe
+*.out
+/build/
+/bin/
+/dist/

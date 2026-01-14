@@ -1,0 +1,23 @@
+# Git
+.git
+.gitignore
+
+# Local config / editor files
+.vscode
+.idea
+*.swp
+*.log
+
+# Dependencies and build cache
+node_modules
+vendor
+tmp
+.cache
+
+# Build artifacts
+bin
+build
+dist
+*.exe
+*.out
+goserver
