@@ -9,15 +9,15 @@
 *.log
 
 # Dependencies and build cache
-node_modules
-vendor
-tmp
-.cache
+#node_modules
+#vendor
+#tmp
+#.cache
 
 # Build artifacts
-bin
-build
-dist
-*.exe
-*.out
-goserver
+#bin
+#build
+#dist
+#*.exe
+#*.out
+#goserver
